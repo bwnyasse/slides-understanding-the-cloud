@@ -3,9 +3,14 @@ theme : "white"
 transition: "slide"
 highlightTheme: "monokai"
 logoImg: "img/cloud-1.jpg"
-slideNumber: false
+slideNumber: true
 title: "Cloud en 360 "
 customTheme : "slides"
+enableMenu: false
+enableChalkboard: false
+#enableTitleFooter: false
+enableZoom: false
+enableSearch: false
 ---
 
 
@@ -32,11 +37,11 @@ Boris-Wilfried NYASSE
 
 <br>
 
-&#x2713; I am a **Stacker, VP of Engineering** @Stack-Labs
+&#x2713; I am a **Stacker** @Stack-Labs
  
    | 
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src="img/stacker.jpg" height="40px" width="80px"> | <img src="img/cm-flag.png" height="40px" width="80px"> | <img src="img/france.png" height="40px" width="80px"> |  <img src="img/canada.png" height="40px" width="80px">
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="img/stacker.jpg" height="40px" width="80px">  | <img src="img/france.png" height="40px" width="80px"> |  <img src="img/canada.png" height="40px" width="80px">
 
 &#x2713; Google Cloud Architect
 
@@ -48,26 +53,11 @@ Boris-Wilfried NYASSE
 
 ---
 
-### STACK LABS 
-
-
-<img src="img/SL-Clients.png" height="500px">
-
-
----
-
-#### TEAM 
-
-<img src="img/TEAM-SL.jpeg" height="650px">
-
----
-
-
 ### Be Social on Twitter
 
 #### Follow & Tweet
 
-<img src="img/london/twitter.png" height="100px">
+<img src="img/twitter.png" height="100px">
 
 @bwnyasse 
 
